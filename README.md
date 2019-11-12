@@ -1,4 +1,4 @@
-# [GreatLakesSIIM.github.io](https://greatlakessiim.github.io/
+# [GreatLakesSIIM.github.io](https://greatlakessiim.github.io/)
 documentation site
 
 ## references
